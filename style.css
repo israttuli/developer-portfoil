@@ -13,6 +13,7 @@ span {
 
 section {
     display: flex;
+    padding-bottom: 150px;
 }
 
 .half-width {
